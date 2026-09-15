@@ -1,0 +1,10 @@
+--- Expense Tracker ---
+1. Add Expense
+2. View Expenses
+3. Total Expenses
+4. Save Expenses
+5. Exit
+Enter choice: 1
+Enter expense name: food
+Enter amount: 100
+Expense added!
